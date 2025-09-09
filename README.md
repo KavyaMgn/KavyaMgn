@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kavya  
 
 I work with **Data Analytics & Machine Learning** to turn raw data into real insights.  
-My background is in **Product Analytics, B2B & SaaS**, and I’m currently exploring **FinTech and AI applications**.  
+My background is in **Product Analytics** (B2B & SaaS), now exploring **FinTech and AI applications**.  
 
 ---
 
