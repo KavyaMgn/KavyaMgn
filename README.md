@@ -1,24 +1,31 @@
-# 👋 Hi, I'm Kavya  
+# Hi, I'm Kavya 
 
-I work with **Data Analytics & Machine Learning** to turn raw data into real insights.  
-My background is in **Product Analytics** (B2B & SaaS), now exploring **FinTech and AI applications**.  
+**Product Analytics · Data & ML · FinTech · MSBA @ ASU W.P. Carey · Ex-Zoho**
 
----
-
-## 🛠️ Skills  
-
-**Data & Programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-**Machine Learning & AI**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Modeling-00A591?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-792EE5?style=for-the-badge)  
-
-**Visualization & BI**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-
-**Product & Strategy**  
-Data-driven decision making • Experimentation • Business Analytics  
+I'm a product marketer turned data analyst with a background in B2B SaaS at Zoho and a fresh MSBA from Arizona State. I work at the intersection of product, data, and business strategy — turning messy datasets into decisions that actually matter. Currently exploring roles in product analytics, data science, and FinTech.
 
 ---
 
-📌 **Open to Data/ML roles in FinTech & Product Analytics**  
+## Skills
+
+**Data & Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+**Machine Learning & AI**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![BERT](https://img.shields.io/badge/NLP%20%26%20BERT-0A59B1?style=flat)
+
+**Visualization & BI**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Product & Strategy**
+Product Analytics · A/B Experimentation · B2B SaaS · Business Analytics
+
+---
+
+📌 Open to **product analytics**, **data science**, and **FinTech** roles 
+
