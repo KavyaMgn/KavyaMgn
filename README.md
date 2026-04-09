@@ -27,5 +27,5 @@ Product Analytics · A/B Experimentation · B2B SaaS · Business Analytics
 
 ---
 
-📌 Open to **product analytics**, **data science**, and **FinTech** roles 
+🎯 Targeting Product Analyst and Data Analyst roles at high-growth tech companies 
 
